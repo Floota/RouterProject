@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "cross-env": "^7.0.3",
     "react-router": "^7.0.2"
+  },
+  "scripts": {
+    "dev": "webpack serve --mode development"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.2.0"
   }
 }
