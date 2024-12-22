@@ -27,7 +27,7 @@ function LocationList() {
           </li>
         ))}
       </ul>
-      <Link to="/" element={<Menu />}>Back</Link>
+      <Link to="/" id="back-link">Back</Link>
     </div>
   );
 }

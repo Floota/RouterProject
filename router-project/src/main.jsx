@@ -3,7 +3,6 @@ import { BrowserRouter, Route, Routes } from "react-router";
 
 import './index.css'
 import Menu from './Menu.jsx'
-import Characters from './CharacterList.jsx'
 import LocationList from './LocationList.jsx';
 import CharacterList from './CharacterList.jsx';
 
